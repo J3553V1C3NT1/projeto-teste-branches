@@ -1,6 +1,6 @@
 main() {
-  int num = 5;
-  print(num * 4);
+  int num1 = 5;
+  print(num1 * 4);
 
   print('Brincando com as ideias;');
 }
